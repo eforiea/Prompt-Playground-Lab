@@ -47,18 +47,6 @@ Prompt-Playground-Lab/
 └── README.md
 ```
 
----
-
-# 🛠 Technologies
-
-* Python 3
-* OpenRouter API
-* Requests
-* python-dotenv
-* JSON
-
----
-
 # 🚀 Installation
 
 Clone the repository:
