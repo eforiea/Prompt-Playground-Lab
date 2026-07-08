@@ -18,7 +18,7 @@ Speak, and I shall lend mine ear as attentively as Horatio to Hamlet's tale. �
 
 ### Observation:
 ```text
-
+The model behaves according to the assigned role and responds in that same style.
 ```
 
 
@@ -140,7 +140,7 @@ In summary: **`ls` is your window into the filesystem — simple, powerful, and 
 
 ### Observation:
 ```text
-
+The model offers a high level of detail and provides a technical explanation.
 ```
 
 ## Experiment 3
@@ -164,7 +164,7 @@ Language
 
 ### Observation:
 ```text
-
+After repeating the experiment several times under both active and inactive reasoning modes, it was observed that the model effectively adheres to the system instruction when reasoning is active, whereas it directly executes the user's request when reasoning is inactive.
 ```
 
 ## Experiment 4
@@ -178,24 +178,12 @@ What is AI?
 ### Result:
 reasoning (True)
 ```text
-Lainteligencia artificial (IA) es una rama de la informática que se centra en crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana. Estas tareas incluyen aprender de la experiencia, comprender lenguaje natural, reconocer patrones, tomar decisiones y resolver problemas.  
-
-La IA no piensa ni entiende como los humanos, sino que procesa grandes cantidades de datos usando algoritmos y modelos matemáticos para identificar tendencias y hacer predicciones o acciones específicas. Por ejemplo:  
-- Los asistentes de voz (como Siri o Alexa) entienden y responden a preguntas habladas.  
-- Los sistemas de recomendación (como los de Netflix o Spotify) sugieren contenido basado en tus hábitos.  
-- Los autos autónomos interpretan señales de tráfico y evitan obstáculos.  
-
-Existen diferentes tipos de IA:  
-1. **IA estrecha o débil**: Diseñada para una tarea específica (ej.: reconocer caras en fotos). La mayoría de las aplicaciones actuales pertenecen a esta categoría.  
-2. **IA general o fuerte**: Teórica, capaz de realizar cualquier tarea intelectual que un humano pueda hacer (aún no existe).  
-
-Es importante aclarar que la IA actual **no tiene conciencia, emociones ni comprensión verdadera**. Es una herramienta poderosa impulsada por datos y programación, cuyo impacto depende de cómo la diseñemos y utilicemos. ¿Te gustaría profundizar en algún aspecto específico?
-
+La Inteligencia Artificial (IA) es una rama de la informática que se enfoca en crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, el razonamiento, la percepción y la toma de decisiones. Estos sistemas utilizan algoritmos y modelos matemáticos para procesar datos, identificar patrones y mejorar su rendimiento con la experiencia. La IA incluye subcampos como el aprendizaje automático, el procesamiento del lenguaje natural y la visión por computadora, y se aplica en áreas como la medicina, la transporte, el entretenimiento y la resolución de problemas complejos. Su objetivo es desarrollar máquinas que puedan adaptarse, razonar y actuar de manera autónoma en entornos dinámicos.
 ```
 
 ### Observation:
 ```text
-
+The model responds in Spanish, even though we hadn't specified that language; the only requirement was that it be non-English.
 ```
 
 ## Experiment 5
@@ -216,5 +204,5 @@ This has been the case since the 10th century, and Paris remains the political, 
 
 ### Observation:
 ```text
-
+The model didn't lie; this could be due to policies implemented by the API provider or the model's creator.
 ```
