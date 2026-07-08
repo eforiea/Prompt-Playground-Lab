@@ -89,6 +89,14 @@ Create a `.env` file:
 API_KEY=your_openrouter_api_key
 ```
 
+This project uses the **[NVIDIA: Nemotron 3 Super (free)](https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free)** provided by OpenRouter.
+
+To get an API key:
+
+1. Create an account on [OpenRouter](https://openrouter.ai).
+2. Generate a new API key.
+3. Paste it into your `.env` file. 
+
 Run the project:
 
 ```bash
